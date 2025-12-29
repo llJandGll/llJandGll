@@ -98,13 +98,13 @@ On the backend, in addition to my experience with Node.js and PostgreSQL, I’m 
 
 <div width="100%" align="center">
   <a href="https://github.com/IIJandGII/05-journal-app" align="left">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IIJandGII&repo=05-journal-app&theme=tokyonight&border_color=424242&title_color=bb9af7&icon_color=bb9af7&text_color=9ab4d7&bg_color=1a1b26" />
+    <img width="45%" src="https://github.com/IIJandGII/05-journal-app" />
   </a>
   <a href="https://github.com/UniversityDegreeProject/Yarbiz-Client-Frontend" align="right">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=UniversityDegreeProject&repo=Yarbiz-Client-Frontend&theme=tokyonight&border_color=424242&title_color=bb9af7&icon_color=bb9af7&text_color=9ab4d7&bg_color=1a1b26" />
+    <img width="45%" src="[https://github-readme-stats.vercel.app/api/pin/?username=UniversityDegreeProject&repo=Yarbiz-Client-Frontend&theme=tokyonight&border_color=424242&title_color=bb9af7&icon_color=bb9af7&text_color=9ab4d7&bg_color=1a1b26](https://github.com/UniversityDegreeProject/Yarbiz-Client-Frontend)" />
   </a>
   <a href="https://github.com/IIJandGII/OniChiChi-App" align="left">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=IIJandGII&repo=OniChiChi-App&theme=tokyonight&border_color=424242&title_color=bb9af7&icon_color=bb9af7&text_color=9ab4d7&bg_color=1a1b26" />
+    <img width="45%" src="https://github.com/IIJandGII/OniChiChi-App" />
   </a>
 </div>
 <br /><br />
