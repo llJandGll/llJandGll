@@ -163,7 +163,7 @@ On the backend, in addition to my experience with Node.js and PostgreSQL, I’m 
 <div align="center">
   <div style="display:inline-block; margin:8px; text-align:center;">
     <a href="https://github.com/llJandGll/05-journal-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=05-journal-app&theme=tokyonight" width="260" />
+      <img src="https://opengraph.githubassets.com/1/llJandGll/05-journal-app" width="260" alt="05-journal-app" />
     </a>
     <br>
     <a href="https://github.com/llJandGll/05-journal-app">llJandGll/05-journal-app</a>
@@ -174,7 +174,7 @@ On the backend, in addition to my experience with Node.js and PostgreSQL, I’m 
 
   <div style="display:inline-block; margin:8px; text-align:center;">
     <a href="https://github.com/llJandGll/OniChiChi-App">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=OniChiChi-App&theme=tokyonight" width="260" />
+      <img src="https://opengraph.githubassets.com/1/llJandGll/OniChiChi-App" width="260" alt="OniChiChi-App" />
     </a>
     <br>
     <a href="https://github.com/llJandGll/OniChiChi-App">llJandGll/OniChiChi-App</a>
@@ -185,7 +185,7 @@ On the backend, in addition to my experience with Node.js and PostgreSQL, I’m 
 
   <div style="display:inline-block; margin:8px; text-align:center;">
     <a href="https://github.com/llJandGll/HeroesApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=HeroesApp&theme=tokyonight" width="260" />
+      <img src="https://opengraph.githubassets.com/1/llJandGll/HeroesApp" width="260" alt="HeroesApp" />
     </a>
     <br>
     <a href="https://github.com/llJandGll/HeroesApp">llJandGll/HeroesApp</a>
