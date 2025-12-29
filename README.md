@@ -137,27 +137,62 @@ On the backend, in addition to my experience with Node.js and PostgreSQL, I’m 
     <img src="https://github-readme-stats.vercel.app/api?username=llJandGll&show_icons=true&count_private=true&theme=tokyonight&hide_border=false" width="420" />
   </a>
   <br>
+  <a href="https://github.com/llJandGll">View my GitHub profile</a>
+  <br>
+  <img src="https://img.shields.io/github/followers/llJandGll?style=flat-square" alt="followers" />
+  <br><br>
   <a href="https://github.com/llJandGll">
     <img src="https://streak-stats.demolab.com/?user=llJandGll&theme=tokyonight" width="420" />
   </a>
   <br>
+  <a href="https://github.com/llJandGll">View my GitHub profile (streak)</a>
+  <br>
+  <img src="https://img.shields.io/badge/streak--info-brightgreen?style=flat-square" alt="streak" />
+  <br><br>
   <a href="https://github.com/llJandGll">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llJandGll&langs_count=10&theme=tokyonight&layout=compact" width="420" />
   </a>
+  <br>
+  <a href="https://github.com/llJandGll">View my GitHub profile (languages)</a>
+  <br>
+  <img src="https://img.shields.io/badge/top--langs--info-0EA5A4?style=flat-square" alt="top-langs" />
 </div><br>
 
 ### Top Repositories
 
 <div align="center">
-  <a href="https://github.com/llJandGll/05-journal-app" style="margin:8px">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=05-journal-app&theme=tokyonight" width="260" />
-  </a>
-  <a href="https://github.com/llJandGll/OniChiChi-App" style="margin:8px">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=OniChiChi-App&theme=tokyonight" width="260" />
-  </a>
-  <a href="https://github.com/llJandGll/HeroesApp" style="margin:8px">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=HeroesApp&theme=tokyonight" width="260" />
-  </a>
+  <div style="display:inline-block; margin:8px; text-align:center;">
+    <a href="https://github.com/llJandGll/05-journal-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=05-journal-app&theme=tokyonight" width="260" />
+    </a>
+    <br>
+    <a href="https://github.com/llJandGll/05-journal-app">llJandGll/05-journal-app</a>
+    <br>
+    <img src="https://img.shields.io/github/stars/llJandGll/05-journal-app?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/llJandGll/05-journal-app?style=flat-square" alt="forks" />
+  </div>
+
+  <div style="display:inline-block; margin:8px; text-align:center;">
+    <a href="https://github.com/llJandGll/OniChiChi-App">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=OniChiChi-App&theme=tokyonight" width="260" />
+    </a>
+    <br>
+    <a href="https://github.com/llJandGll/OniChiChi-App">llJandGll/OniChiChi-App</a>
+    <br>
+    <img src="https://img.shields.io/github/stars/llJandGll/OniChiChi-App?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/llJandGll/OniChiChi-App?style=flat-square" alt="forks" />
+  </div>
+
+  <div style="display:inline-block; margin:8px; text-align:center;">
+    <a href="https://github.com/llJandGll/HeroesApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=llJandGll&repo=HeroesApp&theme=tokyonight" width="260" />
+    </a>
+    <br>
+    <a href="https://github.com/llJandGll/HeroesApp">llJandGll/HeroesApp</a>
+    <br>
+    <img src="https://img.shields.io/github/stars/llJandGll/HeroesApp?style=flat-square" alt="stars" />
+    <img src="https://img.shields.io/github/forks/llJandGll/HeroesApp?style=flat-square" alt="forks" />
+  </div>
 </div>
 
 <br /><br />
